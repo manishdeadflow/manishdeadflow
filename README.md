@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar Saini</h1>
 <h3 align="center">A passionate Full-Satck Developer from India</h3>
 
-<img align="center" src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.global_rank&url=https://competitive-coding-api.herokuapp.com/api/codechef/manishdeadflow&prefix=Rank%20&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=86400"/> 
-
+<p align="center"><img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.global_rank&url=https://competitive-coding-api.herokuapp.com/api/codechef/manishdeadflow&prefix=Rank%20&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=86400"/></p>
 - 📫 How to reach me **manishdeadflow@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
