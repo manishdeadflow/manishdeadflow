@@ -15,6 +15,6 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=manishdeadflow&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=manishdeadflow&theme=dark" width="48%" >
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishdeadflow&show_icons=true&locale=en&layout=compact" alt="manishdeadflow" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishdeadflow&show_icons=true&locale=en&layout=compact" alt="manishdeadflow" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishdeadflow&show_icons=true&locale=en" alt="manishdeadflow" /></p>
